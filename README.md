@@ -44,3 +44,15 @@ The project demonstrates:
 
 ---
 
+# Server Setup Process
+
+## 1. Launch EC2 Instance
+
+An Ubuntu EC2 instance was created using AWS.
+
+Security group rules enabled:
+- SSH (22)
+- HTTP (80)
+- HTTPS (443)
+
+---
