@@ -56,5 +56,3 @@ Security group rules enabled:
 - HTTPS (443)
 
 ---
-
-test word
