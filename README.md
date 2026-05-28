@@ -44,15 +44,10 @@ The project demonstrates:
 
 ---
 
-# Server Setup Process
 
-## 1. Launch EC2 Instance
+Website (https://jordanshl.site)
+1. To Access Click on link or
+2. Copy and Paste Into New Tab
+3. If Unsuccessful Paste link In Incognito And Enter
 
-An Ubuntu EC2 instance was created using AWS.
-
-Security group rules enabled:
-- SSH (22)
-- HTTP (80)
-- HTTPS (443)
-
----
+Video-()
