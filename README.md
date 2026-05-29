@@ -50,4 +50,4 @@ Website (https://jordanshl.site)
 2. Copy and Paste Into New Tab
 3. If Unsuccessful Paste link In Incognito And Enter
 
-Video-()
+Video-(https://drive.google.com/file/d/10Xbg-WAevjBKrqgxMRCDP1nQtjE3qbtX/view?usp=sharing)
